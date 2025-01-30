@@ -1,3 +1,2 @@
-# BNN_DP_FL
-
-This ia a code. Hello world.
+# BinaryFL
+Implementation Code For Work under review
